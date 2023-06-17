@@ -1,0 +1,23 @@
+.leftbar{
+    width: 22%;
+    height: 100vh;
+    background-color: #1A69DF;
+}
+
+
+.crcs_info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+
+
+.crcs_info>img{
+    color: #FFFFFF;
+    margin-left: 2%;
+    width: 150px;
+    height: 150px;
+}
+
